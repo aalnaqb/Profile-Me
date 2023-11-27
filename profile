@@ -3,7 +3,7 @@
 
 <head>
 <meta charset="utf-8">
-<title>discovre me </title>
+<title>Profile-Me</title>
 <link rel="stylesheet" type="text/css" href="prostyle.css">
  <script>
 
