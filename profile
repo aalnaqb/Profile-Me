@@ -17,7 +17,7 @@
        
          if ( hour < 12 )
             document.write( "<h2>Good Morning ! " );
-
+ 
          
          if ( hour >= 12 )
          {
@@ -26,15 +26,15 @@
 
             
             if ( hour < 6 )
-               document.write( "<h2>Good Afternoon, " );
+               document.write( "<h2>Good Afternoon! " );
 
             
             if ( hour >= 6 )
-               document.write( "<h2>Good Evening, " );
+               document.write( "<h2>Good Evening! " );
          } 
 
          document.writeln( name + 
-            ", Welcome to My Website!</h2>" );
+            ", Welcome to My Website</h2>" );
 
       </script>
 
