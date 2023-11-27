@@ -45,7 +45,7 @@ h2{
 	color:#6B240C;
 	text-align:center;
 	font-family: 'Poppins', sans-serif;
-	animation: blinker 1s infinite;
+	animation: blinker 1.5s infinite;
 
 }	
 @keyframes blinker {
@@ -79,8 +79,17 @@ h1{
 	color:#3A4D39;
 	text-align:center;
 	font-family: 'Poppins', sans-serif;
+	
 }
-
+.contact
+{
+	font-size:60px;
+	font-weight:600;
+	color:#3A4D39;
+	text-align:center;
+	font-family: 'Poppins', sans-serif;
+	animation: blinker 1.5s infinite;
+}
 
 
 .form{
@@ -112,5 +121,6 @@ color:	#3A4D39;
 }
 
 
+	
 
 	
